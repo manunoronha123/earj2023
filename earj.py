@@ -1,5 +1,4 @@
 # earj2023
-cd /app/earj2023/
 import requests
 from bs4 import BeautifulSoup
 import pandas as pd
