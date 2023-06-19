@@ -1,3 +1,4 @@
+cd /app/earj2023/
 beautifulsoup4
 pandas
 streamlit
