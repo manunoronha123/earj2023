@@ -1,6 +1,6 @@
 # earj2023
+cd /app/earj2023/
 pip install streamlit
-pip install beautifulsoup4
 import requests
 from bs4 import BeautifulSoup
 import pandas as pd
