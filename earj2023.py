@@ -1,4 +1,5 @@
-pip install streamlit 
-pip install requests 
-pip install beautifulsoup4 
-pip install pandas
+beautifulsoup4
+pandas
+streamlit
+openpyxl
+requests
