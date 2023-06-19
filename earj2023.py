@@ -3,3 +3,4 @@ pandas
 streamlit
 openpyxl
 requests
+streamlit run earj.py
